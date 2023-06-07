@@ -6,7 +6,7 @@
 ### Clone repo
 
 ```bash
-git clone https://github.com/gomgomcode/sentence_tramsformer_api
+git clone https://github.com/gomgomcode/sentence_transformer_api
 ```
 
 ### build
