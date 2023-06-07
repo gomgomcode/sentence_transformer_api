@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+numpy
+scikit-learn
+scipy
+nltk
+tqdm
+sentence_transformers
+transformers
